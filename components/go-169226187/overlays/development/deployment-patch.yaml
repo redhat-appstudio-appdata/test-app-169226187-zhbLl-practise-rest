@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/skhileri-tenant/test-app-169226187/go-169226187@sha256:9d36151cbb2acf8b708b69f9b6586d313763ee8fb6db12a8d9c9f9b2d805995d
+      - image: quay.io/redhat-user-workloads/skhileri-tenant/test-app-169226187/go-169226187@sha256:62cbfda6260287f507ffffdeb0f999a06908703e5817215842ea8b1f3e593a09
         name: my-go
         resources: {}
 status: {}
